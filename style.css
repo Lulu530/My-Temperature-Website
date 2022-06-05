@@ -10,10 +10,19 @@ h1 {
     text-align: center;
 }
 
-.game-title {
+.games {
     font-size: 40px;
     top: 5%;
     left: 30%;
+    font-weight: bold;
+    color: rgb(0, 0, 0);
+    text-align: center;
+}
+
+.converter {
+    font-size: 40px;
+    top: 5%;
+    left: 45%;
     font-weight: bold;
     color: rgb(0, 0, 0);
     text-align: center;
