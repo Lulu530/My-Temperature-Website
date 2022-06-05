@@ -1,0 +1,41 @@
+h1 {
+    /*background-image: url(https://wallpaperaccess.com/full/334549.jpg);*/
+    position: absolute;
+    font-family: Helvetica;
+    font-size: 50px;
+    top: 4%;
+    left: 7%;
+    font-weight: bold;
+    color: rgb(0, 0, 0);
+    text-align: center;
+}
+
+.game-title {
+    font-size: 40px;
+    top: 5%;
+    left: 30%;
+    font-weight: bold;
+    color: rgb(0, 0, 0);
+    text-align: center;
+}
+
+.contact {
+    font-size: 40px;
+    top: 5%;
+    left: 60%;
+    font-weight: bold;
+    color: rgb(0, 0, 0);
+    text-align: center;
+}
+
+p {
+    position: absolute;
+    font-size: 30px;
+    top: 20%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+  
+
+
+
